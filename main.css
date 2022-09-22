@@ -1,0 +1,17 @@
+/* vars */
+html {
+    --background-color: black;
+    --foreground-color: white;
+
+}
+
+/* styles*/
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: var(--background-color);
+    color: var(--foreground-color);
+}
+.title
+{
+    font-weight: bold;
+}
